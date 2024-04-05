@@ -1,3 +1,4 @@
+## You can test an online version here: https://anasm20.github.io/ananas-ai/
 ## Before running, you must install:
 Before running the project, ensure you have installed the following dependencies:
 - `react-router-dom`

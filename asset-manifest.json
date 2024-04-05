@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ananas-ai/static/css/main.91598e24.css",
+    "main.js": "/ananas-ai/static/js/main.b9411fb7.js",
+    "static/js/453.52b73f7c.chunk.js": "/ananas-ai/static/js/453.52b73f7c.chunk.js",
+    "static/media/a3.png": "/ananas-ai/static/media/a3.a739d60bddf0aaf8e139.png",
+    "static/media/a4.png": "/ananas-ai/static/media/a4.6fd76d27f0b827bfcc58.png",
+    "static/media/a1.png": "/ananas-ai/static/media/a1.94f9553355122fd30455.png",
+    "static/media/ChatAI.png": "/ananas-ai/static/media/ChatAI.819dd91093a48c6bdf2f.png",
+    "static/media/logo.png": "/ananas-ai/static/media/logo.03240962cda328299f35.png",
+    "index.html": "/ananas-ai/index.html",
+    "main.91598e24.css.map": "/ananas-ai/static/css/main.91598e24.css.map",
+    "main.b9411fb7.js.map": "/ananas-ai/static/js/main.b9411fb7.js.map",
+    "453.52b73f7c.chunk.js.map": "/ananas-ai/static/js/453.52b73f7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91598e24.css",
+    "static/js/main.b9411fb7.js"
+  ]
+}

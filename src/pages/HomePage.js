@@ -62,7 +62,7 @@ const HomePage = () => {
         <div className="col-md-6  bg-light p-4">
           <div className="embed-responsive embed-responsive-16by9">
           {/* !! did not use this youtube video !! */}
-            {/* <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/MvlyAOuWDmE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe> */}
+            <iframe className="embed-responsive-item" src="https://www.youtube.com/embed/MvlyAOuWDmE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </div>
         </div>
         <div className="col-md-6">

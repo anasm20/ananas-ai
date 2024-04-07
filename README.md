@@ -1,10 +1,20 @@
-## You can find an online version here: https://anasm20.github.io/ananas-ai/
+## AnanasAI - Explore AI and Cloud Computing
+
+### Creator:
+- **Name:** Anas Mohammad
+- **Contact:** anasmohammad1212a@gmail.com
+
+### Project Description:
+AnanasAI is a web platform designed to provide an interactive learning experience in the fields of Artificial Intelligence (AI) and Cloud Computing. It offers comprehensive resources, tutorials, quizzes, and practical applications to cater to both beginners and professionals interested in these technologies.
+### You can find an online version here: https://anasm20.github.io/ananas-ai/
+
 ## Before running, you must install:
 Before running the project, ensure you have installed the following dependencies:
 - `react-router-dom`
 - `react-icons`
 - `react-bootstrap`
 - `bootstrap`
+- `build`
 
 
 You can install them using npm:
@@ -12,10 +22,37 @@ You can install them using npm:
 - `npm install react-icons`
 - `npm install react-bootstrap`
 - `npm install bootstrap`
+- `npm run build`
+
+
+### Build With:
+- HTML
+- CSS
+- JavaScript
+- React
+
+### Known Bugs:
+- There is a Google cookies issue due to the embedded YouTube video in the `HomePage.js` file on line 65.
   
+```
+<iframe className="embed-responsive-item" src="https://www.youtube.com/embed/MvlyAOuWDmE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+```
+![2024-04-07_181627](https://github.com/anasm20/ananas-ai/assets/112882511/25d881e2-2106-4608-ad6b-87792c7328e2)
+
+
+### Tested Browsers:
+- Desktop:
+  - Chrome
+  - Safari
+- Phone:
+  - Safari
+  - Brave
+
+
+
 ![Screenshot 2024-04-06 at 00 52 04](https://github.com/anasm20/ananas/assets/112882511/2f88cf29-8681-4c75-af74-6f63e5d13d27)
 ![Screenshot 2024-04-06 at 00 52 14](https://github.com/anasm20/ananas/assets/112882511/74acb9d6-4a7c-419e-a8fa-1b8dd2ddde66)
-
+![Screenshot 2024-04-06 at 00 56 40](https://github.com/anasm20/ananas/assets/112882511/1a69d4eb-ce0a-44a7-9819-18d878e1eb30)
 
 # ANANAS - Explore AI and Cloud Computing
 
@@ -53,14 +90,21 @@ Embark on a journey of discovery with ANANAS and unlock the potential of AI and 
 - **Help:** Provides answers to frequently asked questions and offers general support.
 - **Impressum:** Contains legal information about the operator of the website, including contact details.
 
+### Screenshots from the Project:
 ![Screenshot 2024-04-06 at 00 52 38](https://github.com/anasm20/ananas/assets/112882511/e0e945f8-97ed-4d5f-861c-ad13f84ba69a)
 ![Screenshot 2024-04-06 at 00 52 56](https://github.com/anasm20/ananas/assets/112882511/4fe56314-34a4-4046-be2d-797c62c4bf08)
 ![Screenshot 2024-04-06 at 00 53 02](https://github.com/anasm20/ananas/assets/112882511/bbdde320-b953-41fc-8b67-1355daa96103)
 ![Screenshot 2024-04-06 at 00 53 17](https://github.com/anasm20/ananas/assets/112882511/cb63c4b9-a923-4a31-a452-920566598b0c)
 ![Screenshot 2024-04-06 at 00 53 39](https://github.com/anasm20/ananas/assets/112882511/8de9f88d-6e38-488f-9e48-64bb7acb9187)
 ![Screenshot 2024-04-06 at 00 53 49](https://github.com/anasm20/ananas/assets/112882511/3683e7b6-5d47-492a-ae38-fc01b89234c3)
-![Screenshot 2024-04-06 at 00 56 40](https://github.com/anasm20/ananas/assets/112882511/1a69d4eb-ce0a-44a7-9819-18d878e1eb30)
 
 
+
+### Learnings:
+- Optimizing website performance across browsers and devices
+- Importance of thorough testing for consistent user experience
+- Understanding responsive design principles
+- Addressing privacy concerns with third-party content embedding
+- Continuous improvement in code organization and readability
 
 If you have any further questions, please don't hesitate to contact me.

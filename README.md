@@ -49,12 +49,11 @@ You can install them using npm:
   - Brave
 
 
-
 ![Screenshot 2024-04-06 at 00 52 04](https://github.com/anasm20/ananas/assets/112882511/2f88cf29-8681-4c75-af74-6f63e5d13d27)
 ![Screenshot 2024-04-06 at 00 52 14](https://github.com/anasm20/ananas/assets/112882511/74acb9d6-4a7c-419e-a8fa-1b8dd2ddde66)
 ![Screenshot 2024-04-06 at 00 56 40](https://github.com/anasm20/ananas/assets/112882511/1a69d4eb-ce0a-44a7-9819-18d878e1eb30)
 
-# ANANAS - Explore AI and Cloud Computing
+# AnanasAI - Component
 
 ## Introduction
 Welcome to ANANAS, your gateway to explore the intriguing realm of Artificial Intelligence (AI) and Cloud Computing. Our platform aims to provide a comprehensive learning experience, catering to both enthusiasts and professionals interested in delving deeper into the concepts, applications, and implications of these groundbreaking technologies.
@@ -104,7 +103,6 @@ Embark on a journey of discovery with ANANAS and unlock the potential of AI and 
 - Optimizing website performance across browsers and devices
 - Importance of thorough testing for consistent user experience
 - Understanding responsive design principles
-- Addressing privacy concerns with third-party content embedding
 - Continuous improvement in code organization and readability
 
 If you have any further questions, please don't hesitate to contact me.

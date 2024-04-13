@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { getLeaderboard } from '../components/localStorageService';
 import '../styles/App.css';
 
-// you can add this new feature for the future :)
 const Leaderboard = () => {
   const [leaderboard, setLeaderboard] = useState([]);
 

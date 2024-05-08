@@ -2,7 +2,7 @@
 
 ### Creator:
 - **Name:** Anas Mohammad
-- **Contact:** anasmohammad1212a@gmail.com
+- **Contact-Github:** anasm20
 
 ### Project Description:
 AnanasAI is a web platform designed to provide an interactive learning experience in the fields of Artificial Intelligence (AI) and Cloud Computing. It offers comprehensive resources, tutorials, quizzes, and practical applications to cater to both beginners and professionals interested in these technologies.

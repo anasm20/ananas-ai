@@ -1,7 +1,7 @@
 ## AnanasAI - Explore AI and Cloud Computing
 
 ### Creator:
-- **Name:** Anas Mohammad
+- **Name:** Anas
 - **Contact-Github:** anasm20
 
 ### Project Description:
